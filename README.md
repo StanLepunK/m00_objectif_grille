@@ -1,7 +1,7 @@
 # Code créatif Module 00
 
 ## version
-v 0.0.2
+v 0.0.3
 
 ## objectif
 Réaliser à l'aide du langage Processing les exercices suivants.
@@ -81,7 +81,7 @@ sketch : ex03_dyptique.pde
 xp : 10
 intitulé :
 Créer une fenêtre de 640 par 480.
-Afficher deux rectangles dans la partie droite, l'autre dans la partie gauche ; leur surface hors contour devront être égales, leur contour passera par la ligne médiane et verticale de la fenêtre.
+Afficher deux rectangles l'un dans la partie droite, l'autre dans la partie gauche ; leur surface hors contour devront être égales, leur contour passera par la ligne médiane et verticale de la fenêtre.
 Le contour des deux rectangles sera d'une troisième couleur et de 10 pixels d'épaisseur.
 Attention Le contour devra être de la même épaisseur sur l'ensemble de la fenêtre.
 ```
