@@ -1,7 +1,7 @@
 # Code créatif Module 00
 
 ## version
-v 0.0.6
+v 0.0.8
 
 ## objectif
 Réaliser à l'aide du langage Processing les exercices suivants.
@@ -14,6 +14,8 @@ L'ensemble des exercices sont à renvoyer par mail au correcteur en respectant l
 Vous avez des listes de `primitive, globale, opérateur, méthode, condition` ou `itération` que vous pourrez utiliser. Il n'est pas obligatoire de toutes les utiliser, par contre vous ne pouvez pas en utiliser d'autres.
 
 La taille de la fenêtre pourra être changée par le correcteur.
+
+
 ```
 dossier : nom prénom
 sous-dossier : module
@@ -21,7 +23,11 @@ sous-dossier : exercice
 fichier : nom.pde
 ```
 
-* exemple `Maurice_Dupont/m00/m00_ex_00_truc/m00_ex_00_truc.pde`
+* exemple 
+
+`Maurice_Dupont/m00/m00_ex_00_truc/m00_ex_00_truc.pde`
+
+En cas d'échec sur le module, le sous-dossier module se nommera `m00_1`, puis `m00_2` mais le nom des sketches ne changera pas.
 
 contraintes : 
 respecter la [norme](https://github.com/StanLepunK/La-Voie-du-Code/blob/master/norme_voie_du_code.md)
