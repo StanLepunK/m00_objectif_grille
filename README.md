@@ -1,4 +1,4 @@
-# Code créatif Module 00
+# Code créatif Module 00 grille
 
 ## version
 v 0.0.8
@@ -15,17 +15,14 @@ Vous avez des listes de `primitive, globale, opérateur, méthode, condition` ou
 
 La taille de la fenêtre pourra être changée par le correcteur.
 
-
 ```
 dossier : nom prénom
 sous-dossier : module
-sous-dossier : exercice
-fichier : nom.pde
+sous-dossier : nom_exercice
+fichier : nom_exercice.pde
 ```
 
-* exemple 
-
-`Maurice_Dupont/m00/m00_ex_00_truc/m00_ex_00_truc.pde`
+* exemple `Maurice_Dupont/m00/m00_ex_00_truc/m00_ex_00_truc.pde`
 
 En cas d'échec sur le module, le sous-dossier module se nommera `m00_1`, puis `m00_2` mais le nom des sketches ne changera pas.
 
