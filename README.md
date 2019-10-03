@@ -105,9 +105,9 @@ primitive : int
 globale : width, height
 opérateur : = / < % * + == ++ +=
 méthodes primaire : setup()
-méthodes secondaire : size(), noStroke(), fill(), while(), rect(), line()
+méthodes secondaire : size(), noStroke(), fill(), rect(), line()
 condition :
-itération :
+itération : while()
 ```
 ## ex05_grille
 ```
@@ -122,9 +122,9 @@ primitive : int
 globale : width, height
 opérateur : = / < * ++ += +
 méthode primaire : setup()
-méthode secondaire : size(), background(), rect(), line(), fill(), stroke(), strokeWeight(), while()
+méthode secondaire : size(), background(), rect(), line(), fill(), stroke(), strokeWeight() 
 condition :
-itération :
+itération : while()
 ```
 
 ## ex06_damier
@@ -140,7 +140,7 @@ primitive : int
 globale : width, height
 opérateur : = / < * ++ += + % ==
 méthode primaire : setup()
-méthode secondaire : size(), background(), rect(), line(), fill(), stroke(), strokeWeight(), while()
+méthode secondaire : size(), background(), rect(), line(), fill(), stroke(), strokeWeight()
 condition : if, else
-itération :
+itération : while()
 ```
