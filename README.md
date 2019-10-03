@@ -1,7 +1,7 @@
 # Code créatif Module 00
 
 ## version
-v 0.0.3
+v 0.0.4
 
 ## objectif
 Réaliser à l'aide du langage Processing les exercices suivants.
@@ -12,6 +12,8 @@ Dés que la norme n'est pas respectée, l'exercice est considéré comme raté.
 L'ensemble des exercices sont à renvoyer par mail au correcteur en respectant l'arborescence et le nommage des dossiers, sous-dossiers et nom de fichiers. Si l'arborescence n'est pas respectée l'exercice ou le module ne seront pas corrigés et considérés comme ratés.
 
 Vous avez des listes de `primitive, globale, opérateur, méthode, condition` ou `itération` que vous pourrez utiliser. Il n'est pas obligatoire de toutes les utiliser, par contre vous ne pouvez pas en utiliser d'autres.
+
+La taille de la fenêtre pourra être changée par le correcteur.
 ```
 dossier : nom prénom
 sous-dossier : module
