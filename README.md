@@ -1,7 +1,7 @@
 # Code créatif Module 00
 
 ## version
-v 0.0.4
+v 0.0.5
 
 ## objectif
 Réaliser à l'aide du langage Processing les exercices suivants.
@@ -112,7 +112,7 @@ globale : width, height
 opérateur : = / < % * + == ++ +=
 méthodes primaire : setup()
 méthodes secondaire : size(), noStroke(), fill(), rect(), line()
-condition :
+condition : if
 itération : while()
 ```
 ## ex05_grille
