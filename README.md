@@ -1,7 +1,7 @@
 # Code créatif Module 00
 
 ## version
-v 0.0.5
+v 0.0.6
 
 ## objectif
 Réaliser à l'aide du langage Processing les exercices suivants.
