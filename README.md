@@ -1,7 +1,7 @@
 # Code créatif Module 00 grille
 
 ## version
-v 0.0.10
+v 0.0.11
 
 ## objectif
 Réaliser à l'aide du langage Processing les exercices suivants.
@@ -108,7 +108,7 @@ Dans une fenêtre de 640 par 480,
 Afficher 10 bandes horizontales d'une même épaisseur et sans contour.
 Les bandes devront avoir une longueur égale à la fenêtre et être réparties sur toute la hauteur.
 Elles seront de deux couleurs différentes qui devront alterner.
-Il est ici introduit le concept de modulo et de comparaison, donc attention aux opérateurs proposés et leur emplois.
+L'emploi du modulo est un plus.
 ```
 ```
 primitive : int
@@ -126,6 +126,7 @@ xp : 15
 intitulé :
 Dans une fenêtre de 640 par 480.
 La fenêtre devra afficher 100 cases espacées de façon égales.
+L'emploi d'une double boucle un plus.
 ```
 ```
 primitive : int
