@@ -1,7 +1,7 @@
 # Code créatif Module 00 grille
 
 ## version
-v 0.0.8
+v 0.0.9
 
 ## objectif
 Réaliser à l'aide du langage Processing les exercices suivants.
@@ -80,9 +80,9 @@ condition :
 itération :
 ```
 
-## ex03_dyptique
+## ex03_diptyque
 ```
-sketch : ex03_dyptique.pde
+sketch : ex03_diptyque.pde
 xp : 10
 intitulé :
 Créer une fenêtre de 640 par 480.
