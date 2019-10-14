@@ -1,7 +1,7 @@
 # Code créatif Module 00 grille
 
 ## version
-v 0.0.11
+v 0.0.12
 
 ## objectif
 Réaliser à l'aide du langage Processing les exercices suivants.
@@ -33,7 +33,7 @@ respecter la [norme](https://github.com/StanLepunK/La-Voie-du-Code/blob/master/n
 ## ex00_window
 ```
 sketch : ex00_window.pde
-xp : 5
+xp : 5 / 70
 intitulé :
 Créer une fenêtre de 640 par 480.
 ```
@@ -49,7 +49,7 @@ itération :
 ## ex01_background
 ```
 sketch : ex01_background.pde
-xp : 5
+xp : 10 / 70
 intitulé :
 Créer une fenêtre de 640 par 480 et définir la couleur de la fenêtre.
 ```
@@ -65,7 +65,7 @@ itération :
 ## ex02_rectangle
 ```
 sketch : ex02_rectangle.pde
-xp : 5
+xp : 15 / 70
 intitulé :
 Créer une fenêtre de 640 par 480 et définir une couleur d'arrière-plan.
 Afficher un rectangle dans la partie droite, celui-ci fera la moitié de la fenêtre et devra être d'une couleur différente de l'arrière plan.
@@ -83,7 +83,7 @@ itération :
 ## ex03_diptyque
 ```
 sketch : ex03_diptyque.pde
-xp : 10
+xp : 25 / 70
 intitulé :
 Créer une fenêtre de 640 par 480.
 Afficher deux rectangles l'un dans la partie droite, l'autre dans la partie gauche ; leur surface hors contour devront être égales, leur contour passera par la ligne médiane et verticale de la fenêtre.
@@ -102,7 +102,7 @@ itération :
 ## ex04_bande
 ```
 sketch : ex04_bande.pde
-xp : 10
+xp : 35 / 70
 intitulé :
 Dans une fenêtre de 640 par 480,
 Afficher 10 bandes horizontales d'une même épaisseur et sans contour.
@@ -122,7 +122,7 @@ itération : while()
 ## ex05_grille
 ```
 sketch : ex05_grille.pde
-xp : 15
+xp : 50 / 70
 intitulé :
 Dans une fenêtre de 640 par 480.
 La fenêtre devra afficher 100 cases espacées de façon égales.
@@ -141,7 +141,7 @@ itération : while()
 ## ex06_damier
 ```
 sketch : ex06_damier.pde
-xp : 20
+xp : 70 / 70
 intitulé :
 Dans une fenêtre de 480 par 480.
 La fenêtre devra afficher un damier régulier en noir et blanc de 10 sur 10;
