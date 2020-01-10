@@ -24,7 +24,7 @@ sous-dossier : m##_ex##_nom
 fichier :  m##_ex##_nom.pde
 ```
 
-* exemple `Maurice_Dupont/m00/m00_ex_00_truc/m00_ex_00_truc.pde`
+* exemple `Maurice_Dupont/m00/m00_ex00_truc/m00_ex00_truc.pde`
 
 
 contraintes : 
